@@ -16,11 +16,8 @@ Developing a messaging app, a financial management app, a video processing app, 
 ### Skills
   <p align="left">
                                 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="36" height="36" alt="React Native" /></a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723543-9c0aef11-012d-490c-905c-4f8e7484cc98.png" width="36" height="36" alt="Kotlin" />
-                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-                                       <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723916-4c99c6aa-014f-4644-a13f-f0a3b0f0bf8f.png" width="36" height="36" alt="Figma" /></a>
+      <a href="https://www.ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" width="36" height="36" alt="JavaScript" /></a>
+                                <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="36" height="36" alt="React" /></a>
                                  
                                   
                                    
@@ -33,10 +30,9 @@ Developing a messaging app, a financial management app, a video processing app, 
                   
                   
 <p align="left">  
-                      <a href="https://github.com/lysyshaky" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723650-6772510e-13fa-42b4-a12a-3d29633c5452.png" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-                      <a href="http://www.instagram.com/lysyshaky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
-                      <a href="https://www.stackoverflow.com/users/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;  
-             <a href="https://telegram.me/lysyshaky" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723220-7318e48b-b166-4675-9900-a6d0069fa6d8.png" width="60" height="32" /></a>&nbsp;&nbsp;&nbsp;  
+                      <a href="https://github.com/RostTrukhum" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723650-6772510e-13fa-42b4-a12a-3d29633c5452.png" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+                      <a href="https://www.instagram.com/r.roamrise/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+             <a href="https://t.me/rost_tru" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723220-7318e48b-b166-4675-9900-a6d0069fa6d8.png" width="60" height="32" /></a>&nbsp;&nbsp;&nbsp;  
   
 
 
