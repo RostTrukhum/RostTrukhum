@@ -41,5 +41,5 @@ Developing a messaging app, a financial management app, a video processing app, 
     
 More about Me
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lysyshaky&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  [![4xMafole's GitHub stats](https://github-readme-stats.vercel.app/api?username=lysyshaky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RostTrukhum&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![4xMafole's GitHub stats](https://github-readme-stats.vercel.app/api?username=RostTrukhum&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
