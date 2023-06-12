@@ -15,7 +15,7 @@ Developing a messaging app, a financial management app, a video processing app, 
 
 ### Skills
   <p align="left">
-                                <a href="[https://dart.dev/](https://reactnative.dev/)" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg](https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg)" width="36" height="36" alt="Dart" /></a>
+                                <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="36" height="36" alt="React Native" /></a>
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48721796/227723543-9c0aef11-012d-490c-905c-4f8e7484cc98.png" width="36" height="36" alt="Kotlin" />
